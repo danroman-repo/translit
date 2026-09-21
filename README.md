@@ -1,6 +1,6 @@
 # Translit — веб-приложение для транслитерации
 
-<img src="https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light.png" title="Translit — веб-приложение для транслитерации"> 
+<img src="/pic/screenshot-light.png" title="Translit — веб-приложение для транслитерации"> 
 
 ## Структура
 
