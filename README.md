@@ -1,5 +1,7 @@
 # Translit — веб-приложение для транслитерации
 
+<img src="https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light.png" height="64" title="Translit — веб-приложение для транслитерации"> 
+
 ## Структура
 
 - `backend/` — Node.js + Express + LevelDB
